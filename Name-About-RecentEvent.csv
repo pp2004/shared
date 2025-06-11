@@ -1,0 +1,5 @@
+"Name","About","Recent Event"
+"Training Data Poisoning","Attackers inject malicious data to manipulate model behavior.","https://www.crn.com/news/ai/2024/the-ai-danger-zone-data-poisoning-targets-llms"
+"Model Extraction","Reverse-engineering proprietary models via systematic queries.","https://ece.ncsu.edu/2024/researchers-demonstrate-new-technique-for-stealing-ai-models/"
+"Membership Inference Attacks","Determining if specific data was used in training, risking privacy leaks.","https://nips.cc/virtual/2024/poster/95327"
+"Supply Chain Attacks","Compromising AI dependencies (libraries, models) to insert backdoors.","https://cacm.acm.org/research/malicious-ai-models-undermine-software-supply-chain-security/"
